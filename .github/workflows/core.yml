@@ -122,7 +122,7 @@ jobs:
           name: symbols
           path: build/symbols
 
-      # - name: Post to channel 测试111
+      # - name: Post to channel 测试111222
       #   if: ${{ success() && github.event_name != 'pull_request' && github.ref == 'refs/heads/master' && github.ref_type != 'tag' && inputs.post_telegram != 'false' }}
       #   env:
       #     CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
