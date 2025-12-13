@@ -1,15 +1,15 @@
 [submodule "external/lsplant"]
 	path = external/lsplant
-	url = https://github.com/JingMatrix/LSPlant.git
+	url = https://github.com/13231178/LSPlant.git
 [submodule "external/dobby"]
 	path = external/dobby
-	url = https://github.com/JingMatrix/Dobby.git
+	url = https://github.com/13231178/Dobby.git
 [submodule "external/fmt"]
 	path = external/fmt
 	url = https://github.com/fmtlib/fmt.git
 [submodule "patch/libs/manifest-editor"]
     path = axml/libs/manifest-editor
-    url = https://github.com/JingMatrix/ManifestEditor.git
+    url = https://github.com/13231178/ManifestEditor.git
 [submodule "external/xz-embedded"]
 	path = external/xz-embedded
 	url = https://github.com/tukaani-project/xz-embedded
@@ -18,4 +18,4 @@
 	url = https://github.com/apache/commons-lang
 [submodule "external/lsplt"]
 	path = external/lsplt
-	url = https://github.com/JingMatrix/LSPlt
+	url = https://github.com/13231178/LSPlt
