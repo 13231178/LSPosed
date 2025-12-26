@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nie/github/LSPosed/daemon/src/main/jni",
-      "program": "/Users/nie/github/LSPosed/daemon/src/main/jni/build/Debug/outDebug"
+      "cwd": "/Users/nie/github/LSPosed",
+      "program": "/Users/nie/github/LSPosed/build/Debug/outDebug"
     }
   ]
 }
