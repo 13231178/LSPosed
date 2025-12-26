@@ -17,5 +17,6 @@
 	path = external/lsplt
 	url = https://github.com/13231178/LSPlt.git
 [submodule "external/lsplant"]
+	ignore = dirty
 	path = external/lsplant
 	url = https://github.com/13231178/lsplant.git
