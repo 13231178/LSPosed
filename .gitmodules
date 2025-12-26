@@ -1,6 +1,3 @@
-[submodule "external/lsplant"]
-	path = external/lsplant
-	url = https://github.com/13231178/LSPlant.git
 [submodule "external/dobby"]
 	path = external/dobby
 	url = https://github.com/13231178/Dobby.git
@@ -19,3 +16,6 @@
 [submodule "external/lsplt"]
 	path = external/lsplt
 	url = https://github.com/13231178/LSPlt
+[submodule "external/lsplant"]
+	path = external/lsplant
+	url = https://github.com/13231178/lsplant.git
