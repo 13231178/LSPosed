@@ -12,10 +12,10 @@
 	url = https://github.com/tukaani-project/xz-embedded
 [submodule "apache/commons-lang"]
 	path = apache/commons-lang
-	url = https://github.com/apache/commons-lang
+	url = https://github.com/apache/commons-lang.git
 [submodule "external/lsplt"]
 	path = external/lsplt
-	url = https://github.com/13231178/LSPlt
+	url = https://github.com/13231178/LSPlt.git
 [submodule "external/lsplant"]
 	path = external/lsplant
 	url = https://github.com/13231178/lsplant.git
